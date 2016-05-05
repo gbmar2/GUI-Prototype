@@ -1,0 +1,17 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+#menuBar{
+    -fx-background-color:#3385ff;
+    
+}
+#bt{
+    -fx-border-color: #e6e6e6;
+    -fx-border-width: 1px;
+}
+
